@@ -1,0 +1,3 @@
+[submodule "faceviews-decoding"]
+	path = faceviews-decoding
+	url = https://github.com/lowell-monis/faceviews-decoding.git
